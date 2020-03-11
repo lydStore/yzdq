@@ -8,11 +8,11 @@ import $ from 'jquery'
 // require styles
 import 'swiper/dist/css/swiper.css'
 
-Vue.use(VueAwesomeSwiper)
+Vue.use(VueAwesomeSwiper);
 
 Vue.prototype.router = router;
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
 
 /* eslint-disable no-new */
 new Vue({
@@ -20,4 +20,4 @@ new Vue({
   router,
   components: { App },
   template: '<App/>'
-})
+});
