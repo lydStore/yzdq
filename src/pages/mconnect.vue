@@ -11,8 +11,8 @@
 			<div class="connect-con">
 				<div class="fl"><img src="../assets/images/ewm.jpg"></div>
 				<div class="fr connect-mode">
-					<p>公司联系电话：15670982182</p>
-					<p>邮箱：lyz102@yeah.net</p>
+          <p>公司联系电话：<a href="tel:15670982182">15670982182</a></p>
+          <p>邮箱：<a href="mailto:lyz102@yeah.net">lyz102@yeah.net</a></p>
 					<p>公司地址：河南省郑州市高新技术产业开发区金梭路202号2幢1单元22层78号</p>
 				</div>
 			</div>
@@ -24,7 +24,7 @@
 		name:'mconnect',
 		data(){
 			return{
-        
+
 			}
 		}
 	}
