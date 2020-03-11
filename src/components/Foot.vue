@@ -23,6 +23,7 @@
 <style scoped>
 	.footer{background:#333;padding: 20px 0}
   .footer p,.footer p a{font-size: 14px;color: #fff;padding-bottom:6px}
+  .footer p a{text-decoration: underline}
   @media screen and ( max-width : 640px ){
   	.footer .w1200{width: 100%;text-align: center;}
   }

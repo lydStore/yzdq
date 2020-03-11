@@ -41,4 +41,5 @@
 .connect-con .fl img{width: 100%}
 .connect-mode{width:65%}
 .connect-mode p{font-size: .375rem;color: #343434;padding-bottom:.3rem}
+.connect-mode p a{color: #343434;text-decoration: underline}
 </style>

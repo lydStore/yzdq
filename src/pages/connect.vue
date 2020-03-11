@@ -40,4 +40,5 @@
 .title .t-english:after{left:auto;right: 0}
 .connect-mode{width: 360px;padding-left: 200px; background: url(../assets/images/ewm.jpg) no-repeat left 26px;background-size: 160px auto;min-height: 280px}
 .connect-mode p{font-size: 16px;color: #343434;padding-top: 26px}
+.connect-mode a{color: #666;text-decoration: underline}
 </style>

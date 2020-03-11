@@ -33,14 +33,14 @@
 		  		<h2>报名方法：</h2>
 					<p>
 						地址：河南省郑州市高新技术产业开发区金梭路202号2幢1单元22层78号<br>
-						联系电话：15670982182（李先生）。<br>
-					  网上报名办法：发简历至lyz102@yeah.net
+						联系电话：<a href="tel:15670982182">15670982182（李先生）。</a><br>
+					  网上报名办法：发简历至<a href="mailto:lyz102@yeah.net">lyz102@yeah.net</a>
 					</p>
 		  	</div>
-		  	
+
 			</div>
 		</div>
-		
+
 	</div>
 </template>
 <script>
@@ -48,7 +48,7 @@
 		name:'madvertise',
 		data(){
 			return{
-        
+
 			}
 		}
 	}
@@ -67,4 +67,5 @@
 .advertise-yq{padding: .2rem;font-size: .4rem;color: #666}
 .advertise-yq h2{padding: .2rem 0;font-size: .5rem;color: #666;border-bottom: 1px solid #ababab}
 .advertise-yq .col-red{color: #f00}
+.advertise-yq a{color: #666;text-decoration: underline}
 </style>
